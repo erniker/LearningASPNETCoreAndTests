@@ -1,0 +1,13 @@
+A a hora de poner el registro de usurios, y tratar de tener una lista para cada uno, me daba error al cargar la lista despues de registrarme. 
+He mirado las siguentes págias para arreglarlo:
+
+Para el primer error que era precio a este: "InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[Microsoft.AspNetCore.Identity.IdentityUser]' while attempting to activate 'Mobile.Areas.Identity.Pages.Account.RegisterModel'"
+    https://stackoverflow.com/questions/44483589/unable-to-resolve-service-for-type-microsoft-aspnetcore-identity-usermanager-w
+    https://github.com/aspnet/Mvc/issues/7856
+    https://forums.asp.net/t/2154504.aspx?InvalidOperationException+Unable+to+resolve+service+for+type+Microsoft+AspNetCore+Identity+UserManager+1+Microsoft+AspNetCore+Identity+IdentityUser+while+attempting+to+activate+Mobile+Areas+Identity+Pages+Account+RegisterModel+
+
+Para el error "Cannot create a DbSet for 'ApplicationUser' because this type is not included in the model for the context."
+    https://stackoverflow.com/questions/50744006/asp-net-core-2-1-identityuser-issue-cannot-create-a-dbset-for-identityuser
+
+Todavia tenemos el error de que a los usuarios con permisos de administrator, le da "access denied" cuando intnenta cargar la página
+ManagerUsers, que necesita el Rol admin para que solo se le muestre a los administradores

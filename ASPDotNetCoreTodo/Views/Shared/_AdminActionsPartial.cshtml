@@ -1,0 +1,34 @@
+<!-- Es una convención nombrar vistas parciales compartidas que comienzan con un guión bajo _ -->
+
+<!-- Esta vista parcial primero utiliza el SignInManager para determinar
+rápidamente si el usuario está conectado. Si no lo está, el resto del código de
+vista se puede omitir. Si hay hay un usuario conectado, el UserManager se
+utiliza para buscar sus detalles y realizar una verificación de autorización
+con IsInRoleAsync (). Si todas las comprobaciones son correctas y el
+usuario es un administrador, se agrega un enlace Administrar usuarios a la
+barra de navegación. --> 
+
+@using Microsoft.AspNetCore.Identity
+@using ASPDotNetCoreTodo.Models
+
+@inject SignInManager<ApplicationUser> signInManager
+    @inject UserManager<ApplicationUser> userManager
+
+        @if (signInManager.IsSignedIn(User))
+        {
+        var currentUser = await userManager.GetUserAsync(User);
+        var isAdmin = currentUser != null
+        && await userManager.IsInRoleAsync(
+        currentUser,
+        Constants.AdministratorRole);
+        if (isAdmin)
+        {
+        <ul class="nav navbar-nav navbar-right">
+            <li>
+                <a asp-controller="ManageUsers" asp-action="Index">
+                    Manage Users
+                </a>
+            </li>
+        </ul>
+        }
+        }

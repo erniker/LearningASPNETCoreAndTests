@@ -1,0 +1,9 @@
+{
+    "sqltools.connections": [
+        {
+            "database": ".\\app.db",
+            "dialect": "SQLite",
+            "name": "BBDD"
+        }
+    ]
+}
