@@ -9,9 +9,10 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ASPDotNetCoreTodo.Controllers
 {
-    //La configuración de la propiedad Roles en el atributo
+    //La configuración de la propiedad Roles en el atributos
     //[Authorize] garantizará que el usuario tenga que iniciar sesión y se le
     //asigne el rol de Administrador para poder ver la página.
+
     [Authorize(Roles = Constants.AdministratorRole)]
     public class ManageUsersController : Controller
     {
