@@ -36,4 +36,4 @@ D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDot
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.dll
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.pdb
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.csproj.CopyComplete
-D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.csprojAssemblyReference.cache
+d:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.csprojAssemblyReference.cache
