@@ -1,0 +1,4 @@
+D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.1\ASPDotNetCoreTodo.UnitTests.csprojAssemblyReference.cache
+D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.1\ASPDotNetCoreTodo.UnitTests.csproj.CoreCompileInputs.cache
+D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.1\ASPDotNetCoreTodo.UnitTests.AssemblyInfoInputs.cache
+D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.1\ASPDotNetCoreTodo.UnitTests.AssemblyInfo.cs
