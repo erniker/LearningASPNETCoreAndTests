@@ -1,0 +1,6 @@
+Si no se reconoce algun metodo, como UseInMemoryDatabase, probar:
+dotnet add package Microsoft.EntityFrameworkCore.InMemory
+
+Mas info sobre esto:
+https://stackoverflow.com/questions/43098065/entity-framework-core-dbcontextoptionsbuilder-does-not-contain-a-definition-f
+https://github.com/dotnet/project-system/issues/1741

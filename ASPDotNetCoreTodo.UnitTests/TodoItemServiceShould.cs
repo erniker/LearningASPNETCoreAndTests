@@ -36,7 +36,7 @@ namespace ASPDotNetCoreTodo.UnitTests
                 Assert.Equal(1, await inMemoryContext.Items.CountAsync());
                 
                 var item = await inMemoryContext.Items.FirstAsync();
-                Assert.Equal("fake-000", item.OwnerId);
+                Assert.Equal("fake-000", item.UserId);
                 Assert.Equal("Testing?", item.Title);
                 Assert.Equal(false, item.IsDone);
                 Assert.True(DateTimeOffset.Now.AddDays(3) - item.DueAt < TimeSpan.FromSeconds(1));
