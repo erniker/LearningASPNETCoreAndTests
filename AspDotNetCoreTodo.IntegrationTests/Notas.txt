@@ -1,0 +1,6 @@
+Si la instruccion:
+	config.AddJsonFile("appsettings.json");
+te da error, prueba: 
+dotnet add package Microsoft.Extensions.Configuration.UserSecrets 
+
+mas info: https://stackoverflow.com/questions/37190082/build-failing-on-net-core-app-due-to-missing-definition

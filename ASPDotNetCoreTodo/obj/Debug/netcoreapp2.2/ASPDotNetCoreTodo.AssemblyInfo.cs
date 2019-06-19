@@ -12,12 +12,12 @@ using System;
 using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-ASPDotNetCoreTodo-64C47924-FE62-4947-BC14-3D39EC3A4D8F")]
-[assembly: System.Reflection.AssemblyCompanyAttribute("ASPDotNetCoreTodo")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("AspDotNetCoreTodo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ASPDotNetCoreTodo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ASPDotNetCoreTodo")]
+[assembly: System.Reflection.AssemblyProductAttribute("AspDotNetCoreTodo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("AspDotNetCoreTodo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

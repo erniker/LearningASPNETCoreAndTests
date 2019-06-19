@@ -1,5 +1,5 @@
 {
-  "FilePath": "d:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo.csproj",
+  "FilePath": "d:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\AspDotNetCoreTodo.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-2.1",
     "LanguageVersion": "2.1",
@@ -2940,7 +2940,7 @@
     ],
     "CSharpLanguageVersion": 703
   },
-  "RootNamespace": "ASPDotNetCoreTodo",
+  "RootNamespace": "AspDotNetCoreTodo",
   "Documents": [
     {
       "FilePath": "Views\\Shared\\Error.cshtml",

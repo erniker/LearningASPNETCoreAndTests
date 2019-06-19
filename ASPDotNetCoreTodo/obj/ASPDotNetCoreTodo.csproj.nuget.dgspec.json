@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo.csproj": {}
+    "D:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\AspDotNetCoreTodo.csproj": {}
   },
   "projects": {
-    "D:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo.csproj": {
+    "D:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\AspDotNetCoreTodo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo.csproj",
-        "projectName": "ASPDotNetCoreTodo",
-        "projectPath": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo.csproj",
+        "projectUniqueName": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\AspDotNetCoreTodo.csproj",
+        "projectName": "AspDotNetCoreTodo",
+        "projectPath": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\AspDotNetCoreTodo.csproj",
         "packagesPath": "C:\\Users\\josep\\.nuget\\packages\\",
-        "outputPath": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\ASPDotNetCoreTodo\\obj\\",
+        "outputPath": "D:\\ASPNetCore\\ASPDotNetCoreTodo\\AspDotNetCoreTodo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

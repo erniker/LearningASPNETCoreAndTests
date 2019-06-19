@@ -4,7 +4,6 @@ D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.UnitTests.AssemblyInfo.cs
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\ASPDotNetCoreTodo.Views.dll
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\ASPDotNetCoreTodo.Views.pdb
-D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\app.db
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
@@ -18,3 +17,4 @@ D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.UnitTests.csproj.CopyComplete
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.UnitTests.dll
 D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\obj\Debug\netcoreapp2.2\ASPDotNetCoreTodo.UnitTests.pdb
+D:\ASPNetCore\ASPDotNetCoreTodo\ASPDotNetCoreTodo.UnitTests\bin\Debug\netcoreapp2.2\app.db
